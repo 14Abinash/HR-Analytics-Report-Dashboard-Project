@@ -1,4 +1,4 @@
-# HR-Analytics-Report-Dashboard-Project
+# HR-Analytics-Dashboard-Project
 HR Analytics Dashboard Insights
 
 1. Employee Overview
