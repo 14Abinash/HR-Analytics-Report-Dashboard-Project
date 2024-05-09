@@ -7,10 +7,12 @@ HR Analytics Dashboard Insights
 📌Average age: 37 years
 📌Average salary: $6.5K
 📌Average tenure: 7 years
-2. Attrition Analysis
+
+3. Attrition Analysis
 📌Higher attrition in Life Sciences and Medical fields.
 📌Employees earning up to $5K show the highest attrition.
 📌Younger employees (26-35 years) are more likely to leave.
-3. Job Role Impact
+
+5. Job Role Impact
 📌Sales Representatives, Laboratory Technicians, and Sales Executives experience higher attrition.
 📌This dashboard provides valuable insights into workforce dynamics, highlighting areas for HR intervention to improve employee retention and satisfaction.📈📊
